@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/scottpickering31/reddit-redesign/static/css/main.947a3bbf.css",
-    "main.js": "/scottpickering31/reddit-redesign/static/js/main.08f35a39.js",
-    "static/js/787.4d6f0446.chunk.js": "/scottpickering31/reddit-redesign/static/js/787.4d6f0446.chunk.js",
-    "index.html": "/scottpickering31/reddit-redesign/index.html",
-    "main.947a3bbf.css.map": "/scottpickering31/reddit-redesign/static/css/main.947a3bbf.css.map",
-    "main.08f35a39.js.map": "/scottpickering31/reddit-redesign/static/js/main.08f35a39.js.map",
-    "787.4d6f0446.chunk.js.map": "/scottpickering31/reddit-redesign/static/js/787.4d6f0446.chunk.js.map"
+    "main.css": "/reddit-redesign/static/css/main.947a3bbf.css",
+    "main.js": "/reddit-redesign/static/js/main.6ed00abe.js",
+    "static/js/787.4d6f0446.chunk.js": "/reddit-redesign/static/js/787.4d6f0446.chunk.js",
+    "index.html": "/reddit-redesign/index.html",
+    "main.947a3bbf.css.map": "/reddit-redesign/static/css/main.947a3bbf.css.map",
+    "main.6ed00abe.js.map": "/reddit-redesign/static/js/main.6ed00abe.js.map",
+    "787.4d6f0446.chunk.js.map": "/reddit-redesign/static/js/787.4d6f0446.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.947a3bbf.css",
-    "static/js/main.08f35a39.js"
+    "static/js/main.6ed00abe.js"
   ]
 }
