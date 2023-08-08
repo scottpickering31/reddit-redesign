@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scottpickering31/reddit-redesign/static/css/main.947a3bbf.css",
+    "main.js": "/scottpickering31/reddit-redesign/static/js/main.08f35a39.js",
+    "static/js/787.4d6f0446.chunk.js": "/scottpickering31/reddit-redesign/static/js/787.4d6f0446.chunk.js",
+    "index.html": "/scottpickering31/reddit-redesign/index.html",
+    "main.947a3bbf.css.map": "/scottpickering31/reddit-redesign/static/css/main.947a3bbf.css.map",
+    "main.08f35a39.js.map": "/scottpickering31/reddit-redesign/static/js/main.08f35a39.js.map",
+    "787.4d6f0446.chunk.js.map": "/scottpickering31/reddit-redesign/static/js/787.4d6f0446.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.947a3bbf.css",
+    "static/js/main.08f35a39.js"
+  ]
+}
