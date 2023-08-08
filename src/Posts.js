@@ -89,7 +89,7 @@ export default function Posts() {
       title:
         "Kitchen Experiment Gone Right: Vegan Brownies That Even Non-Vegans Love! 🍫🌱 #BakingMagic",
       user: "AdventureAwaits22",
-      subreddit: "politics",
+      subreddit: "mathematics",
       comment_count: Math.floor(Math.random() * 5000),
     },
     {
